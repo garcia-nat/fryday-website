@@ -1,0 +1,27 @@
+    background-color: #F99F24;
+        background-color: #05a751;
+                background-color: #ffffff;
+                        background-color: #0c6044;
+
+                    
+    <section id="about-us-section6">
+
+        <div class="title4-about-us-fryday">
+                <h2>Sobre a Nossa Equipa</h2>
+            </div>
+            <div class="text5-about-us-fryday">
+                <p>Nós, Nathan Garcica e Miguel Martins, somos alunos da Escola Bento Jesus Caraça, do 12º ano do curso de Gestão e Programação de Sistemas Informáticos (GPSI). Estamos orgulhosos de fazer parte dessa escola e temos nos dedicado aos estudos e ao aprimoramento de nossas habilidades na área da tecnologia.</p>
+                <p>Ao longo dos últimos três anos, temos tido a oportunidade de mergulhar em um ambiente de aprendizado estimulante, que nos proporciona uma base sólida em programação e gestão de sistemas informáticos. A Escola Bento Jesus Caraça tem se destacado pela qualidade de ensino e pelo compromisso em preparar seus alunos para os desafios do mercado de trabalho.</p>
+                <p>Durante nossa jornada na escola, temos tido acesso a professores experientes e dedicados, que nos têm guiado e incentivado a explorar todo o potencial da área da tecnologia. Além das disciplinas acadêmicas, também participamos de projetos práticos e atividades extracurriculares, o que tem enriquecido nossa formação e nos permitido aplicar os conhecimentos adquiridos em situações reais.</p>
+                <p>Agradecemos à Escola Bento Jesus Caraça por nos proporcionar uma educação de qualidade e por nos ajudar a construir bases sólidas para nossa carreira. Estamos orgulhosos de fazer parte dessa instituição e comprometidos em aproveitar ao máximo essa experiência de aprendizado.</p>
+            </div>
+
+    </section>
+
+    /*section 6*/
+#about-us-section6 {
+    height: 100vh;
+    width: 100%;
+    display:flex;
+    border:solid 2px #000;
+}
